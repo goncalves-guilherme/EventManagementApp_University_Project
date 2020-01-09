@@ -1,0 +1,67 @@
+{
+  "currentPage": 1,
+  "pageCount": 3,
+  "pageSize": 25,
+  "results": [
+    {
+      "eventId": 1,
+      "name": "Evento 2",
+      "description": "desc desc",
+      "startDate": "2019-04-27T15:28:40.993",
+      "endDate": "2033-01-03T15:28:40.993",
+      "author": {
+        "userId": 2,
+        "name": "Marco",
+        "email": "M@gmail.com",
+        "createDate": "2019-04-19T18:19:12.657"
+      },
+      "location": {
+        "locationId": 1,
+        "latitude": 1,
+        "longitude": 1,
+        "address": "Rua dos mares"
+      },
+      "state": 1
+    },
+    {
+      "eventId": 2,
+      "name": "Evento 3",
+      "description": "desc desc",
+      "startDate": "2019-04-27T15:28:41",
+      "endDate": "2033-01-03T15:28:41",
+      "author": {
+        "userId": 3,
+        "name": "Pedro",
+        "email": "P@gmail.com",
+        "createDate": "2019-04-19T18:19:12.657"
+      },
+      "location": {
+        "locationId": 1,
+        "latitude": 1,
+        "longitude": 1,
+        "address": "Rua dos mares"
+      },
+      "state": 1
+    },
+    {
+      "eventId": 3,
+      "name": "Evento 1",
+      "description": "desc desc",
+      "startDate": "2019-04-27T15:28:43.917",
+      "endDate": "2033-01-03T15:28:43.917",
+      "author": {
+        "userId": 1,
+        "name": "Guilherme",
+        "email": "g@gmail.com",
+        "createDate": "2019-04-19T18:19:12.657"
+      },
+      "location": {
+        "locationId": 1,
+        "latitude": 1,
+        "longitude": 1,
+        "address": "Rua dos mares"
+      },
+      "state": 1
+    }
+  ]
+}

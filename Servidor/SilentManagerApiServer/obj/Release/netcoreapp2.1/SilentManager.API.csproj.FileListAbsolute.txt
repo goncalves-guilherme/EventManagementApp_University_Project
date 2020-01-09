@@ -1,0 +1,15 @@
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\bin\Release\netcoreapp2.1\SilentManager.API.deps.json
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\bin\Release\netcoreapp2.1\SilentManager.API.runtimeconfig.json
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\bin\Release\netcoreapp2.1\SilentManager.API.runtimeconfig.dev.json
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\bin\Release\netcoreapp2.1\SilentManager.API.dll
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\bin\Release\netcoreapp2.1\SilentManager.API.pdb
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\SilentManager.API.csprojAssemblyReference.cache
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\SilentManager.API.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\SilentManager.API.RazorAssemblyInfo.cache
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\SilentManager.API.RazorAssemblyInfo.cs
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\SilentManager.API.AssemblyInfoInputs.cache
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\SilentManager.API.AssemblyInfo.cs
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\SilentManager.API.RazorTargetAssemblyInfo.cache
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\SilentManager.API.dll
+C:\Users\Guilherme.DESKTOP-4M2HS2Q\Desktop\ServerProduction\ProjectoFinal\Application\SilentManagerApiServer\SilentManagerApiServer\obj\Release\netcoreapp2.1\SilentManager.API.pdb

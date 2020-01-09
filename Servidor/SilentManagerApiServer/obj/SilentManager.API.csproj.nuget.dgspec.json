@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Guilherme.DESKTOP-4M2HS2Q\\Desktop\\ServerProduction\\ProjectoFinal\\Application\\SilentManagerApiServer\\SilentManagerApiServer\\SilentManager.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Guilherme.DESKTOP-4M2HS2Q\\Desktop\\ServerProduction\\ProjectoFinal\\Application\\SilentManagerApiServer\\SilentManagerApiServer\\SilentManager.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme.DESKTOP-4M2HS2Q\\Desktop\\ServerProduction\\ProjectoFinal\\Application\\SilentManagerApiServer\\SilentManagerApiServer\\SilentManager.API.csproj",
+        "projectName": "SilentManager.API",
+        "projectPath": "C:\\Users\\Guilherme.DESKTOP-4M2HS2Q\\Desktop\\ServerProduction\\ProjectoFinal\\Application\\SilentManagerApiServer\\SilentManagerApiServer\\SilentManager.API.csproj",
+        "packagesPath": "C:\\Users\\Guilherme.DESKTOP-4M2HS2Q\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme.DESKTOP-4M2HS2Q\\Desktop\\ServerProduction\\ProjectoFinal\\Application\\SilentManagerApiServer\\SilentManagerApiServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Guilherme.DESKTOP-4M2HS2Q\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[3.10.10, )"
+            },
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Diagnostics.EventLog": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

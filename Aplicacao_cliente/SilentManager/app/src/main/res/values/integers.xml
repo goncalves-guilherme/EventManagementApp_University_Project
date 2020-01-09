@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="radius_max_input">3</integer>
+    <integer name='location_max_input'>13</integer>
+    <integer name="small_input_max_size">35</integer>
+    <integer name="blob_input_max_size">150</integer>
+</resources>

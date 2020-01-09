@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">SilentManager</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_location_permission">LocationPermissionActivity</string>
+    <string name="reason_to_allow_location_permission">
+        Why do we need your location permission?\n\n
+        -> To be able to silence your phone automatically by understanding if you\'re inside an event;\n
+        -> To present you the best events around you.\n
+        -> To present you a map for event creation;
+    </string>
+    <string name="enable_location_permission_button">I\'m in</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="location_event_filter">In</string>
+    <string name="category_event_filter">Category</string>
+    <string name="location_event_hint_filter">Location</string>
+    <string name="search_events_btm">Search</string>
+    <string name="close_button">X</string>
+    <string name="no_events_found">No events found.</string>
+    <string name="add">+</string>
+
+
+    <!-- Main Menu -->
+    <string name="home_menu_item_title">Home</string>
+    <string name="search_menu_item_title">Search</string>
+    <string name="management_menu_item_title">Management</string>
+    <string name="preferences_menu_item_title">Preferences</string>
+
+    <!-- Event Management Fragment -->
+    <string name="event_management_title">Event Management</string>
+    <string name="create_event_button">Create a new event</string>
+    <string name="accepted_events_button">Accepted invitations</string>
+    <string name="invitations_title_label">Your invitations</string>
+    <string name="edit_created_events">Your events</string>
+    <string name="event_management_logout_label">Logout</string>
+
+    <!-- Request Location Fragment -->
+    <string name="request_location_reason_txt">We need your location to get all events around you.</string>
+    <string name="enable_location_btm">Enable location</string>
+
+    <!-- Request Internet Connection Fragment -->
+    <string name="request_internet_connection_reason_txt">You don\'t have access to the internet.\nPlease enable your
+        provider or go to a place where internet connection is possible.
+    </string>
+    <string name="request_internet_connection_done_btm">Done</string>
+    <string name="request_internet_no_connection_yet">Please, connect to the internet.</string>
+
+
+    <!-- Create Event Activity -->
+    <string name="create_event_title">Create Event:</string>
+    <string name="update_event_title">Update Event:</string>
+    <string name="create_event_name_label">Name:</string>
+    <string name="create_event_description_label">Description:</string>
+    <string name="create_event_local_label">Local:</string>
+    <string name="create_event_category_label">Category:</string>
+    <string name="create_event_start_date_label">Start date:</string>
+    <string name="create_event_define_start_date_label">Define start date.</string>
+    <string name="create_event_start_time_label">Start time:</string>
+    <string name="create_event_end_date_label">End date:</string>
+    <string name="create_event_end_time_label">End time:</string>
+    <string name="create_event_define_end_date_label">Define end date.</string>
+    <string name="create_event_button_label">Create event</string>
+    <string name="save_event_button_label">Save changes</string>
+    <string name="create_event_latitude_hint">Latitude</string>
+    <string name="create_event_longitude_hint">Longitude</string>
+    <string name="create_event_radius_hint">Radius</string>
+    <string name="create_event_failed_to_create">Event failed to be created.</string>
+    <string name="create_event_success_to_create">Event created successfully.</string>
+    <string name="create_event_failed_missing_fields">Please, fill all the fields.</string>
+
+    <!-- LogIn Fragment -->
+    <string name="login_title_label">Log In</string>
+    <string name="login_email_label">Email</string>
+    <string name="login_email_hint_label">Enter your email</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_password_hint_label">Enter your password</string>
+    <string name="login_sign_up_btm">SignUp</string>
+    <string name="login_sign_in_btm">Log in</string>
+    <string name="login_forget_password_txt">I forgot my password</string>
+    <string name="login_create_account_btm">SignUp</string>
+    <string name="login_loader_authenticating">Authenticating</string>
+    <string name="login_failed_message">Failed to login.</string>
+
+
+    <!-- Register Fragment -->
+    <string name="register_title_label">Register a new account</string>
+    <string name="register_name_label">Name</string>
+    <string name="register_name_hint_input">Type your name</string>
+    <string name="register_email_label">Email</string>
+    <string name="register_email_hint_input">Type your email</string>
+    <string name="register_password_label">Password</string>
+    <string name="register_password_hint_input">Type your password</string>
+    <string name="register_register_btm">Register</string>
+
+    <string name="title_activity_location_search">LocationSearch</string>
+    <string name="title_activity_search_event_results">SearchEventResultsActivity</string>
+    <string name="title_activity_create_event">CreateEvent</string>
+    <string name="register_failed_to_create_account">Failed to create your account.</string>
+    <string name="register_loader_creating_account">Creating your account.</string>
+
+
+    <!-- Loading Screen -->
+    <string name="loading_data_info">Loading data...</string>
+    <string name="loading_contacts_info">Loading contacts...</string>
+    <string name="loading_preferences_info">Loading preferences...</string>
+
+    <!-- Preferences Fragment -->
+    <string name="preferences_title_label">Settings</string>
+    <string name="preferences_turn_of_on_silent_automatic_label">Automatic Silence</string>
+    <string name="preferences_turn_of_on_number_exceptions_label">Contact Exceptions</string>
+    <string name="preferences_contact_exception_label">Contact exceptions</string>
+    <string name="preferences_enable_contact_exception_service_message">Contact exceptions is turn on.</string>
+    <string name="preferences_disable_contact_exception_service_message">Contact exceptions is turn off.</string>
+    <string name="preferences_enable_geofence_service_message">Automatic Silence ON.</string>
+    <string name="preferences_disable_geofence_service_message">Automatic Silence OFF</string>
+    <string name="preferences_contact_permission_disable">To use call exceptions you need to grant contact
+        permissions.
+    </string>
+    <string name="preferences_add_contact_exception_btm">Add contact exceptions</string>
+    <string name="no_exceptions_added_yet">No exceptions were added yet.</string>
+    <string name="no_contacts_found">No contact found.</string>
+
+    <!-- Notifications -->
+    <string name="Update_Events_Notification_Title">Updated Geofence Service</string>
+    <string name="Update_Events_Notification_Description">New events were loaded from the server and your geofence
+        updated.
+    </string>
+
+    <!-- Invitations List -->
+    <string name="invitation_row_title">Name</string>
+    <string name="invitation_row_description">Description</string>
+    <string name="invitation_row_created_by">Created by</string>
+    <string name="invitation_row_accept">Accept</string>
+    <string name="invitation_row_reject">Reject</string>
+    <string name="invitation_not_found">No invitations to show.</string>
+    <string name="invitation_start_at">Start at</string>
+    <string name="invitation_finish_at">Finish at</string>
+
+    <!-- Accepted Invites -->
+    <string name="eventsUserJoin_event_title">Title</string>
+    <string name="eventsUserJoin_event_description">Description</string>
+    <string name="eventsUserJoin_start_at_label">Starts at</string>
+    <string name="eventsUserJoin_finish_at_label">Finish at</string>
+    <string name="eventsUserJoin_invited_users_label">Invited Users:</string>
+    <string name="eventsUserJoin_no_accepted_invites">There is no accepted invites yet.</string>
+    <string name="event_joint_leave_event">Leave</string>
+    <string name="eventsUserJoin_pending_users">Pending Invites:</string>
+    <string name="eventsUserJoin_accepted_users">Accepted Invites:</string>
+
+    <!-- User Search -->
+    <string name="email_name_txt">Name/Email</string>
+    <string name="users_not_found_txt">No users found.</string>
+
+    <!-- ErrorMessages -->
+    <string name="Need_Authentication_Error">You need to be Authenticated.</string>
+    <string name="Generic_Error">Something went wrong.</string>
+    <string name="title_activity_contacts_list">ContactsList</string>
+    <string name="title_activity_events_user_join">EventsUserJoin</string>
+    <string name="title_activity_events_created">EventsCreated</string>
+    <string name="title_activity_search_users">SearchUsersActivity</string>
+    <string name="title_activity_request_location">RequestLocationActivity</string>
+
+    <!-- Created Events -->
+    <string name="created_events_invite_more_users_btm">Invite</string>
+    <string name="created_events_delete_btm">Delete</string>
+    <string name="created_events_no_events_created_yet">No events created yet.</string>
+    <string name="title_activity_alter_events">AlterEventsActivity</string>
+    <string name="title_activity_event_detail">EventDetail</string>
+    <string name="created_events_edit_btm">Edit</string>
+    <string name="created_events_your_events_lbl">Your created events</string>
+    <string name="created_events_create_new_event_lbl">Create a new event</string>
+    <string name="created_events_no_users_accepted_event_lbl">No users accepted yet.</string>
+    <string name="created_events_no_users_pending_event_lbl">No users invited yet.</string>
+
+    <!-- Events Detail -->
+    <string name="events_detail_Title">Title:</string>
+    <string name="events_detail_Category">Category:</string>
+    <string name="events_detail_start_at">Starts at:</string>
+    <string name="events_detail_finish_at">Finish at:</string>
+    <string name="events_detail_latitude">Latitude:</string>
+    <string name="events_detail_longitude">Longitude:</string>
+    <string name="events_detail_Description">Description:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="events_detail_general_info">General Info</string>
+    <string name="events_detail_location_details">Location Details</string>
+
+    <!-- Header -->
+    <string name="silent_manager_title">Silent Manager</string>
+
+    <string name="api_host">{API_HOST}</string>
+</resources>

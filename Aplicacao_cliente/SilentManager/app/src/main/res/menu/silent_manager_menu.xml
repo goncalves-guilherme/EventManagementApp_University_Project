@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android"
+        >
+    <item android:id="@+id/home_menu_item"
+          android:title="@string/home_menu_item_title"
+          android:icon="@drawable/baseline_home_black_24"
+          app:showAsAction="ifRoom"/>
+    <item android:id="@+id/search_menu_item"
+          android:title="@string/search_menu_item_title"
+          app:showAsAction="ifRoom" android:icon="@drawable/baseline_search_black_24"/>
+    <item android:id="@+id/management_menu_item"
+          android:title="@string/management_menu_item_title"
+          app:showAsAction="ifRoom" android:icon="@drawable/baseline_person_black_24"/>
+    <item android:id="@+id/preferences_menu_item"
+          android:title="@string/preferences_menu_item_title"
+          app:showAsAction="ifRoom" android:icon="@drawable/baseline_settings_black_24">
+    </item>
+</menu>
